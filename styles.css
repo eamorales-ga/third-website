@@ -1,0 +1,39 @@
+body{
+background-color: #FFE4E1;    
+}
+
+h1{
+    color:#BC8F8F ;
+}
+
+p{
+    color: #800000;
+    font-size: larger;
+}
+
+hr{
+border: 1px solid;
+}
+
+b{
+    color: #800000;
+}
+
+#special-bold{
+    color: #F08080;
+}
+
+#special-word{
+    color: #BC8F8F;
+}
+
+#first-par{
+    background: rgb(170, 144, 177);
+    padding: 60px
+    margin:25px;
+}
+
+#second-par{
+    background: rgb(134, 103, 119);
+}
+
